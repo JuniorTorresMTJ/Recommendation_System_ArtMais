@@ -1,0 +1,59 @@
+"idsubcategoria","subcategoriausuario","idcategoria","subcategoriaoutro"
+1,"Aquarela",1,False
+2,"Blackwork",1,False
+3,"Pontilhismo",1,False
+4,"Colorido",1,False
+5,"Realismo",1,False
+6,"Old School",1,False
+7,"New School",1,False
+8,"Neo Tradicional",1,False
+9,"Portrait",1,False
+10,"Lettering",1,False
+11,"Comics",1,False
+12,"Oriental",1,False
+13,"Preto e Cinza",1,False
+14,"Maori",1,False
+15,"Tatuagem",1,False
+16,"Biomecânico",1,False
+17,"Fechamento",1,False
+18,"Art Fusion",1,False
+19,"From Hell",1,False
+20,"Sketch",1,False
+21,"Fineline",1,False
+22,"Floral",1,False
+23,"Cobertura",1,False
+25,"Pintura",2,False
+27,"Desenho",2,False
+28,"Gravura",2,False
+29,"Cerâmica",2,False
+30,"Escultura",2,False
+31,"MPB",4,False
+32,"Rap",4,False
+33,"Gospel",4,False
+34,"Trap",4,False
+35,"Hard Rock",4,False
+36,"Axé",4,False
+37,"Forró",4,False
+38,"Funk",4,False
+39,"Sertanejo",4,False
+40,"Rock",4,False
+41,"Pop",4,False
+42,"Pagode",4,False
+43,"Samba",4,False
+44,"Reggae",4,False
+45,"Reggaeton",4,False
+46,"Indie",4,False
+47,"Punk Rock",4,False
+48,"Rock Alternativo",4,False
+49,"Rnb",4,False
+50,"Comédia",5,False
+51,"Drama",5,False
+52,"Ação",5,False
+53,"Musical",5,False
+54,"Romance",5,False
+55,"Terror",5,False
+56,"Suspense",5,False
+57,"Tipografia",6,False
+58,"Fotografia",6,False
+59,"Consumidor",7,True
+92,"string",40,True
